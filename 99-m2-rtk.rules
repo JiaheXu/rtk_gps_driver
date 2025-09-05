@@ -1,0 +1,1 @@
+SUBSYSTEM=="tty", ATTRS{product}=="USB Serial", SYMLINK+="m2_rtk"
